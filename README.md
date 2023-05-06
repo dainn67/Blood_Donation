@@ -1,3 +1,7 @@
 # Blood_Donation_Project.
 
-Blood donation project by ICT students in HUST, VietNam By Dai. Nguyen Nhu, Tue. Vu Minh, Phong. Nguyen Dinh Hong, Ky. Tran Trong
+Blood donation project by K66 ICT students in HUST, VietNam
+
+The project use ReactJS library for front-end development and NodeJS for back-end
+
+Rest API is also use to link the project with MS SQLServer for saving data and performing CRUD operations
